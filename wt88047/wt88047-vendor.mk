@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt88047/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/wingtech/wt88047/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/wingtech/wt88047/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
-    vendor/wingtech/wt88047/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
+    vendor/wingtech/wt88047/proprietary/vendor/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/wingtech/wt88047/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/wingtech/wt88047/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/wingtech/wt88047/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
